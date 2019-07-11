@@ -1,0 +1,33 @@
+
+[squid:S2629Í"7Use the built-in formatting to construct this argument.(“ØÑüÿÿÿÿ8õ°Éôˆ-
+esquid:S3457Å"AFormat specifiers should be used instead of string concatenation.(şõ‡õúÿÿÿÿ8õªÊôˆ-
+dsquid:CallToDeprecatedMethod_"0Remove this use of "getMonth"; it is deprecated.(²ÔŸèüÿÿÿÿ8õªÊôˆ-
+Gsquid:S1148®"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õªÊôˆ-
+Hsquid:S1659;"*Declare "bsDayOfMonth" on a separate line.(ºöæÜ8õªÊôˆ-
+csquid:CallToDeprecatedMethod_"/Remove this use of "getYear"; it is deprecated.(²ÔŸèüÿÿÿÿ8õªÊôˆ-
+Lsquid:S1659t")Declare "DaysInMonth" on a separate line.(äôè‚ùÿÿÿÿ8õªÊôˆ-
+[squid:S1197b"8Move the array designator from the variable to the type.(ŞÜçüÿÿÿÿ8õªÊôˆ-
+ssquid:S1192ì"TUse already-defined constant 'DEFAULT_FORMAT' instead of duplicating its value here.(‚Ùìê8õªÊôˆ-
+csquid:CallToDeprecatedMethod_"/Remove this use of "getDate"; it is deprecated.(²ÔŸèüÿÿÿÿ8õªÊôˆ-
+Isquid:S1659t"&Declare "nepMonth" on a separate line.(äôè‚ùÿÿÿÿ8õªÊôˆ-
+Vsquid:S1197\"8Move the array designator from the variable to the type.(ôŠ‰ù8õªÊôˆ-
+Qsquid:S1172“"-Remove this unused method parameter "bsDate".(¤×ù¦úÿÿÿÿ8õªÊôˆ-
+Vsquid:S2629à"7Use the built-in formatting to construct this argument.(û½ğ÷8õªÊôˆ-
+[squid:S2629í"7Use the built-in formatting to construct this argument.(’Åİúÿÿÿÿ8õªÊôˆ-
+[squid:S2629ò"7Use the built-in formatting to construct this argument.(Ó¸¨øüÿÿÿÿ8õªÊôˆ-
+Csquid:S1659;"%Declare "bsMonth" on a separate line.(ºöæÜ8õªÊôˆ-
+qsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö´È‚8õªÊôˆ-
+Vsquid:S2629É"7Use the built-in formatting to construct this argument.(Šİ¾½8õªÊôˆ-
+csquid:CallToDeprecatedMethodq"/Remove this use of "getDate"; it is deprecated.(·â´íûÿÿÿÿ8õªÊôˆ-
+Gsquid:S1659t"$Declare "nepDay" on a separate line.(äôè‚ùÿÿÿÿ8õªÊôˆ-
+usquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äôè‚ùÿÿÿÿ8õªÊôˆ-
+`squid:S3457à"AFormat specifiers should be used instead of string concatenation.(û½ğ÷8õªÊôˆ-
+dsquid:CallToDeprecatedMethodq"0Remove this use of "getMonth"; it is deprecated.(·â´íûÿÿÿÿ8õªÊôˆ-
+Ssquid:S1172)"0Remove this unused method parameter "separator".(µ›Ğ‰üÿÿÿÿ8õªÊôˆ-
+esquid:S3457ò"AFormat specifiers should be used instead of string concatenation.(Ó¸¨øüÿÿÿÿ8õªÊôˆ-
+[squid:S2629Å"7Use the built-in formatting to construct this argument.(şõ‡õúÿÿÿÿ8õªÊôˆ-
+`squid:S3457É"AFormat specifiers should be used instead of string concatenation.(Šİ¾½8õªÊôˆ-
+[squid:S1197e"8Move the array designator from the variable to the type.(Ï¸Ú¬úÿÿÿÿ8õªÊôˆ-
+Hsquid:S1481c"*Remove this unused "count" local variable.(æÕ¿¼8õªÊôˆ-
+csquid:CallToDeprecatedMethodq"/Remove this use of "getYear"; it is deprecated.(·â´íûÿÿÿÿ8õªÊôˆ-
+«%squid:RedundantThrowsDeclarationCheck%"sRemove the declaration of thrown exception 'com.demo.dateconverter.InvalidDateFormat' which is a runtime exception.(ªÅä8¢şáôˆ-
